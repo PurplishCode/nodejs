@@ -1,0 +1,7 @@
+cd nameFolder // Change directory to desired folder.
+mkdir nameFolder // Make Directory of Folder
+npx @vue/cli // Checking our vue is installed or whatnot.
+npm run serve // Starting development of VUE.
+npm install vue // Installing VUE
+npm install react // Installing REACT
+
